@@ -1,6 +1,7 @@
 ## himialaya.md
 
 1. :pizza:
-1. :tata:
-1. :myta:
+1. :tada:
+1. :taco:
 1. :brownie:
+1. :bowtie:
